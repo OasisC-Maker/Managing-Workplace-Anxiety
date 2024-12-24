@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<manifest identifier="gsvhpPh0EdZklXF-7aN1gMNbO_RYSlXoctbTobo7" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Managing Workplace Anxiety</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Managing Workplace Anxiety</title>
+        <adlcp:datafromlms>eyJjcHYiOiJjdGJUb2JvNyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/0b88305d.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/76a44bc0.js" />
+<file href="scormcontent/lib/rise/9e4d7a83.css" />
+<file href="scormcontent/lib/rise/3e448c65.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/OpenSans-Italic.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Bold.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Regular.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/XiZR9544Jr9Ol5qj_small.png" />
+<file href="scormcontent/assets/UCq545oOhmgGQvda_lxtIU2Tc8DpFy18g.jpg" />
+<file href="scormcontent/assets/kFwSRHTTS3Le5Lcp_transcoded-3lVXSh7AHP-PZJSE-speech_20220630183620176.mp3" />
+<file href="scormcontent/assets/LWH-sJAi01S45tKa_transcoded-MNULpsTJWLrb-dhD-Managing_2520Workplace_2520Anxiety_2520-00001.png" />
+<file href="scormcontent/assets/0jZKjF8ilQsdYVBI_transcoded-MNULpsTJWLrb-dhD-Managing_2520Workplace_2520Anxiety_2520.mp4" />
+<file href="scormcontent/assets/HuanFKgyQqrcuCdQ_JbmAICdfeszUPuj0.jpg" />
+<file href="scormcontent/assets/FlLq3nGcTQpLXbN7_transcoded-Ahrg7iKP7GBNkRbU-Anxiety__2520Module_25202__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/jTirXmPmxDv8sIVl_-SQkCPxfyO4IAZkz.jpg" />
+<file href="scormcontent/assets/9d_pMY11Kk8K2q_j_transcoded-D4EXul8OCqKrItLz-Anxiety__2520Module_25202__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/QCbSu31kgQ5ORahd_transcoded-gTRXkghx5gCRhJZu-Anxiety__2520Module_25202__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/4LG7FHP2axqiqVry_transcoded-MLD8TtnexUq4jEwn-Managing_2520Workplace_2520Anxiety-_2520Module_25202-1080p-220713-00001.png" />
+<file href="scormcontent/assets/1rT7vQGvj1VBluPk_transcoded-MLD8TtnexUq4jEwn-Managing_2520Workplace_2520Anxiety-_2520Module_25202-1080p-220713.mp4" />
+<file href="scormcontent/assets/5Yu9BY5Hm_DsOjwH_LLe1e5RUTdzylDQY.jpg" />
+<file href="scormcontent/assets/4WrpJXS63TeHSjcm_transcoded-lRy1sdnJiRtwLWUw-Anxiety__2520Module_25202__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/1CJwTFYdCgdgalal_transcoded-3LDbQDSYsG4YutKE-Anxiety__2520Module_25202__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/o2oGtkfm95U_roRV_O-vXKT2gAgMVdHVz.jpg" />
+<file href="scormcontent/assets/GQ6F85VRZWAcLYjy_transcoded-ZMcR2D89GXC0B3---Anxiety__2520Module_25202__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/x6wvoMY_wYe3lG4g_lKSQ9Dv62DZALqek.jpg" />
+<file href="scormcontent/assets/COaRGxPTsxgju6h4__pxnfQCMpQat4gih.jpg" />
+<file href="scormcontent/assets/wGbZblh5EdyTPyCi_transcoded-e3S8sAUrqXhAPvO4-Anxiety__2520Module_25203__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/wcfJESQ0V5FrGnBK_transcoded-1_Ib52jcLTJTcTwi-Anxiety__2520Module_25203__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/IOspNZPwU5P96Ryr_U6UdXfqvU5qwhsH2.jpg" />
+<file href="scormcontent/assets/p45jXFj5beMFNmcT_FLb8NeBUKJcGdAo9.jpg" />
+<file href="scormcontent/assets/n9nNOaPDlxPvrzp1_transcoded-qhsPhX9bnY2mMDEa-Anxiety__2520Module_25203__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/q1nxfrABJwgijaRr_transcoded-NllcjhRutF6vhT6h-Managing_2520Workplace_2520Anxiety-_2520Module_25203-1080p-220714-00001.png" />
+<file href="scormcontent/assets/iLQzH74AJsx-Vnzq_transcoded-NllcjhRutF6vhT6h-Managing_2520Workplace_2520Anxiety-_2520Module_25203-1080p-220714.mp4" />
+<file href="scormcontent/assets/XkdYerE8pSq4xS3H_7fmU4paoT4Arazxe.jpg" />
+<file href="scormcontent/assets/poVueNGhZqNKgsy6_transcoded-aKGQDjPQvoxigUuQ-Anxiety__2520Module_25203__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/WvMjgcG5xQwXbowK_transcoded-MgaWGAEcbx0hi1sF-Anxiety__2520Module_25203__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/l8aL67z2ZNIQuoEx_Mq7rnySAGGTE_4YK.jpg" />
+<file href="scormcontent/assets/wqSYFh3-2aKACCuP_FyVYrO8EcbJxitP0.jpg" />
+<file href="scormcontent/assets/PGXTzIN6W4jHIo0n_transcoded-iiT0OxsnJWMpfvIA-Anxiety__2520Module_25203__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/xvISwqXP9cKtmDk3_jV0h6-S64smd0zU9.jpg" />
+<file href="scormcontent/assets/SUHYgah0FP69jRQd_transcoded-Y3HUzYlIxvAhcHTi-Anxiety__2520Module_25204__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/WDhVjYZyKaV2qJCp_s5ZGxkLOBPnUWjRk.jpg" />
+<file href="scormcontent/assets/IsKsSIVeVwMwXM_O_transcoded-Dk3MmN6GKBex17M6-Anxiety__2520Module_25204__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/y6i5qXsdnjNi5ANZ_transcoded-mElyn4EfXdmd_Iqe-Anxiety__2520Module_25204__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/J67r2A40ATpyPx3G_YEpMbdfkVRkdpwF-.jpg" />
+<file href="scormcontent/assets/A4Pg2jPZpkH25oUz_TRb9LZHXdSePLOx9.jpg" />
+<file href="scormcontent/assets/n255OmlU7pkjfI74_transcoded-Vzxd93WH8_rDE-OR-Anxiety__2520Module_25204__2520slide_25204.mp3" />
+<file href="scormcontent/assets/FyP6xBbiUWIJFjxt_transcoded-9x6ZnQ6JYP4ELowL-Anxiety__2520Module_25205__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/GCLYdO7HH_olzOB__transcoded-RPha2MHvmrv5k-vD-Managing_2520Workplace_2520Anxiety-_2520Module_25204-1080p-220713-00001.png" />
+<file href="scormcontent/assets/hNvhbD2wYRYuXHb9_transcoded-RPha2MHvmrv5k-vD-Managing_2520Workplace_2520Anxiety-_2520Module_25204-1080p-220713.mp4" />
+<file href="scormcontent/assets/1X0lDrjLB5Svrfgw_puyJNpFPFGrAyfVV.jpg" />
+<file href="scormcontent/assets/ilaAxjUY6phRs6uq_transcoded-5qsAUjnOtRW8ADHD-Anxiety__2520Module_25205__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/Ld7qWf49NpBBs_wJ_5V-QccppYkCy4Jza.jpg" />
+<file href="scormcontent/assets/5ZTlHKx-57y_R2Vv_transcoded-RhGGvZ_rR7StX5i_-Anxiety__2520Module_25206__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/AjHCE06fxQmZy42h_transcoded-wdbtar2sqbv6h4-3-Anxiety__2520Module_25206__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/hmPRqgyXmxs_jKsh_QxpaKPwSM5gp8Qmq.jpg" />
+<file href="scormcontent/assets/VavD7gw7E1NcUyUF_3ACnqMAEI5HdlV-9.jpg" />
+<file href="scormcontent/assets/B2wKVtgMrw7z6gyh_transcoded-2F_3N5C36ZJgatPr-Anxiety__2520Module_25206__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/Oo6CuCRBKNSPsNsx_transcoded-kNac__8kt_yBTJ0B-Anxiety__2520Module_25206__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/i1dfIqNC7A9MeAsw_zT-8NUnTxkD03pZ7.jpg" />
+<file href="scormcontent/assets/Aj5L1E5UE5odtQ6__eBCvZ2KngRFbWDnX.jpg" />
+<file href="scormcontent/assets/qUiHeY8VJDYbMMyg_transcoded-iBHA-7JTteUSBKmN-Anxiety__2520Module_25206__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/uJswOi2gzw56Cwku_transcoded-DzLHNV28jDo8prL6-Managing_2520Workplace_2520Anxiety-_2520Module_25205-1080p-220718-00001.png" />
+<file href="scormcontent/assets/XXgaxkQybxLtE_kc_transcoded-DzLHNV28jDo8prL6-Managing_2520Workplace_2520Anxiety-_2520Module_25205-1080p-220718.mp4" />
+<file href="scormcontent/assets/j8MC_jM2_ZfHZ1s0_transcoded-cPLEmBz4bqhzru3Y-Anxiety__2520Module_25206__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/7Ho5HxIhZ_ywipso_Evp37WwKlxGGlm71.jpg" />
+<file href="scormcontent/assets/kQe5_wbHaOMQDoZz_transcoded-QtFff6Wt3RfBt5cH-Anxiety__2520Module_25206__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/jbH-I6trlafvr2Bv_transcoded-jTYa1jg9ZjBVzzGy-Anxiety__2520Module_25206__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/MKzQvKkYTMIqg115_kNPcVPB2MRD-uJta.jpg" />
+<file href="scormcontent/assets/BvIwQB1OqpU2fNSj_sruh9ICr7dFQhWgo.jpg" />
+<file href="scormcontent/assets/GclDjzktVRvh5wvy_transcoded-sepwUMZBWEvXon4p-Anxiety__2520Module_25206__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/p2RylNRZ5XXIWJbV_jGKHWjYYY48gx7Tt.jpg" />
+<file href="scormcontent/assets/9dbkxg4LKZx_wNXi_transcoded-dwUx67Nuv3IxdJ1t-Anxiety__2520Module_25206__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/kaSIZVO4w5I5sJ7__transcoded-i-qS0AsHEHQ69lW5-Anxiety__2520Module_25206__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/OJBXGfzePanKPlXG_CJTx58sFC2h4qhW7.jpg" />
+<file href="scormcontent/assets/BBoeE8O28j6eDDWX_lJsflwlSZiKescp2.jpg" />
+<file href="scormcontent/assets/aXsLUtdMzHxS6pNE_transcoded-baU-ZuA74pMUjQ8W-Anxiety__2520Module_25206__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/y4te2DtdJiTkkZVk_transcoded-ex25pUSc1zZhs9DP-Managing_2520Workplace_2520Anxiety-_2520Module_25206-1080p-220714-00001.png" />
+<file href="scormcontent/assets/oiU6Z0puCVbAfqi0_transcoded-ex25pUSc1zZhs9DP-Managing_2520Workplace_2520Anxiety-_2520Module_25206-1080p-220714.mp4" />
+<file href="scormcontent/assets/KqpcVTqG5q2qM7eq_C8apu4oZkNW7VhoT.jpg" />
+<file href="scormcontent/assets/Bc_o8iYDVPBr-oLE_transcoded-5Yveh6H7lSW3LYR0-Anxiety__2520Module_25207__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/Ghgll5YmlnMJIcz6_YJa951_zwfy5Yvq3.jpg" />
+<file href="scormcontent/assets/q2y7RV32jviFdHFI_transcoded-iD3AimxNexRD7GF9-Anxiety__2520Module_25207__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/xNlae9h68NUPY2mY_transcoded-hjfG3BVtmxi_0lmO-Anxiety__2520Module_25207__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/WYqGGlh9h5Iq3jsF_oAGkuHOK9elGdbcM.jpg" />
+<file href="scormcontent/assets/XuO0_1OJLczjncrN_transcoded-a5wswQNDtz7yzbs1-Anxiety__2520Module_25207__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/K3_FPwmlc1Hgu_8s_transcoded-o-vPnUTl7BLwj2k7-Managing_2520Workplace_2520Anxiety-_2520Module_25207-1080p-220714-00001.png" />
+<file href="scormcontent/assets/E5YsBYXuC7Cy6XuC_transcoded-o-vPnUTl7BLwj2k7-Managing_2520Workplace_2520Anxiety-_2520Module_25207-1080p-220714.mp4" />
+<file href="scormcontent/assets/auIPUslbb2uw8SZo_EHbV8u6Xd_-db1GV.jpg" />
+<file href="scormcontent/assets/GGtgfnb77hYaPQC8_transcoded-DktGVHDRWIlBZxH--Anxiety__2520Module_25207__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/SyWYO1ohSEmc0u_6_transcoded-nfAsPQeusfZ5t_Tb-speech_20231114152916042.mp3" />
+<file href="scormcontent/assets/jvZE2Cjk5395RZQv_ZU8awJjhL1nweaa3.jpg" />
+<file href="scormcontent/assets/ztayhEamwVbyU4ee_YkSkoP1rN6JEgqXe.jpg" />
+<file href="scormcontent/assets/JHHs76npBvM424u6_transcoded-NC82m_MxwGZg2PzV-Anxiety__2520Module_25208__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/5HFoK8f5KJALpT-O_transcoded-t4kZYoT6ZYjROfUK-Anxiety__2520Module_25208__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/ynADAnx_ZxCqzI--_Vdnknz22JYZxeYxD.jpg" />
+<file href="scormcontent/assets/U82go1Z5BwZHHC_W_transcoded-Vya6oTketkJqW8KW-Anxiety__2520Module_25208__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/gA5OBIidf8h7kV4q_N53yowimxDFR8iE7.jpg" />
+<file href="scormcontent/assets/V8zd9qxBEVpSAHo2_m-qdvC-sBfKCMc05.jpg" />
+<file href="scormcontent/assets/ZdNOwZIIEK4kead0_XeH0D_-TXfhObgLw.jpg" />
+<file href="scormcontent/assets/PHQ1Z4ZPjf1aKVtM_3f4RcYHQLAw_jIYp.jpg" />
+<file href="scormcontent/assets/exuD3vo0lsObB9Ao_transcoded-rFLe9CKielpo3U7W-Anxiety__2520Module_25208__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/Jz0L2mF4VSk_0KxF_JzgZeQBgcbWdZIUg.jpg" />
+<file href="scormcontent/assets/tw2BsDTuEqgyvz6e_transcoded-3Jh39j_VOFE6OY9a-Anxiety__2520Module_25208__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/lgkuSy-2jZDydUT8_SY0NEgm3WLi_h5zc.jpg" />
+<file href="scormcontent/assets/5wDn9AGPY_OgUqi7_BJYwYafbbPIvtuYe.jpg" />
+<file href="scormcontent/assets/RRsLUrrtMLJMXqFR_plS9CVVkjYt0UgEA.jpg" />
+<file href="scormcontent/assets/hnkTPTe1j4nbPJwn_transcoded-7tbtkwojRBUxa_iB-Anxiety__2520Module_25208__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/NtTfI9ULyi8jZNcu_transcoded-yqt8nKJSJJeUM1Pk-Managing_2520Workplace_2520Anxiety-_2520Module_25208-1080p-220719-00001.png" />
+<file href="scormcontent/assets/jQyy0MRXZNcS5EuM_transcoded-yqt8nKJSJJeUM1Pk-Managing_2520Workplace_2520Anxiety-_2520Module_25208-1080p-220719.mp4" />
+<file href="scormcontent/assets/WeTCICtjmxLR4I3X_v2-JujRlcEa5CPXd.jpg" />
+<file href="scormcontent/assets/bl8HpNVY7CCSUts__transcoded-tVrqdJrDgeW4goGU-Anxiety__2520Module_25209__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/rJt5z4n7pFhNK81u_transcoded-G5WhHO4ucRDqj_nc-Anxiety__2520Module_25209__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/QwJExhtpzWTfDc6z_zBSfLnGQ0qsYysGP.jpg" />
+<file href="scormcontent/assets/zhrpVg4FzNaFcDRy_transcoded-OtSlNX172h1dT4JM-Anxiety__2520Module_25209__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/svAUL8ZQ23G6qZqU_j_XodRryt2-Dm_sZ.jpg" />
+<file href="scormcontent/assets/Vq_oWnc1dCCQKcpm_transcoded-eLoiiiyRZxRIjBrY-Anxiety__2520Moduel_25209__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/4Jy35hqKb1kQxrRh_transcoded-qwMMFplKAWRq5QCd-Managing_2520Workplace_2520Anxiety-_2520Module_25209-1080p-220719-00001.png" />
+<file href="scormcontent/assets/Ov0Ct2wzFNPooDWu_transcoded-qwMMFplKAWRq5QCd-Managing_2520Workplace_2520Anxiety-_2520Module_25209-1080p-220719.mp4" />
+<file href="scormcontent/assets/uHbQYavNzZBbe41w_transcoded-vpNji2klCgYmxLcO-Anxiety__2520Module_25209__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/AzxrX6CgwtmB_Dkd_Cpu15nho-XONEtNo.jpg" />
+<file href="scormcontent/assets/sH9aJOIUQYpUpelk_transcoded-I-OI6H48IhU3s6kN-Anxiety__2520Module_25209__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/XGLDlKAb2-VWoemc_ZGa-yAkMAtTgkMEs.jpg" />
+<file href="scormcontent/assets/YoJBKvdiWSwjNhf5_AoFoDvvBvL3zNVSX.jpg" />
+<file href="scormcontent/assets/QYOcZIPwcMXd1PzH_oNonmmqUib_dGfLc.jpg" />
+<file href="scormcontent/assets/BswKb6pPqFFnEenx_transcoded-V59s_k8OdfAWHhdw-Anxiety__2520Module_252010__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/45h97EY_rtMsEjPR_transcoded-W8YlPADFLwE2-AiF-Anxiety__2520Module_252010__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/vszSmzklPB4mYiLo_transcoded-97Y1AsHvm47DZDLQ-Managing_2520Workplace_2520Anxiety-_2520Module_252010-1080p-220719-00001.png" />
+<file href="scormcontent/assets/wv-JpobnGVpayCQO_transcoded-97Y1AsHvm47DZDLQ-Managing_2520Workplace_2520Anxiety-_2520Module_252010-1080p-220719.mp4" />
+<file href="scormcontent/assets/GzGM2e2b95OQc_Yw_Y0RH1gmSanVMbruI.jpg" />
+<file href="scormcontent/assets/NqgKzXV_BgN6HTma_transcoded-0vllPCD2roDGyfxq-Anxiety__2520Module_252010__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/XEDbwqvWgdsOyggg_transcoded-ctzP4SZEKbYHmGu7-Anxiety__2520Module_252010__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/TMaXH13T_jv3wi5T_rC4URMz717ks_EFs.jpg" />
+<file href="scormcontent/assets/5jMz6F5FI5jqHDmI_wtiUUacK4PVhFuws.jpg" />
+<file href="scormcontent/assets/S1QwE_6ttq1e9j-K_transcoded-JzONYkpXCo_wJSw4-Anxiety__2520Module_252010__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/LqwPz0uWtn_t2aYL_transcoded-Uttrl1HkaZ4ieuWV-Anxiety__2520Module_252010__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/89FsxGlIhXDtUXRc_Tn8S-lmM2riE4Q1u.jpg" />
+<file href="scormcontent/assets/PM_5nR7v7v5tpREc_fC18DfErvhnJ-Cq3.jpg" />
+<file href="scormcontent/assets/1d_FOTKqTMQ3cMF7_transcoded-kiA5Q3OjC2K_CQlT-Anxiety__2520Module_252011__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/1B6B3NwHwwZJqt54_mHK-wGrk6ZWiuOAd.jpg" />
+<file href="scormcontent/assets/XSB1CzJ0Nu-HeqHL_transcoded-HVKM3yNdAE__FtqW-Anxiety__2520Module_252011__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/9ubOoGXiXKCeJaYD_transcoded-kf2895VJ1u1SZ9Ep-Anxiety__2520Module_252011__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/LKGCih0TjN8Nyhej_gG1vOPLzYrKOMKeF.jpg" />
+<file href="scormcontent/assets/JLIYypwGnGJKrfaT_I52_idAcZ54BZQQQ.jpg" />
+<file href="scormcontent/assets/Cw84rHo7XC0TpJvl_transcoded-QPXm3kwnIazZJYiX-Anxiety__2520Module_252011__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/EW5QScr-8_vljnun_transcoded-v4eTTvlidtQFEgD8-Anxiety__2520Module_252011__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/XJW4xWRxN3GzWpim_jE3LuybQNiHQjmq2.jpg" />
+<file href="scormcontent/assets/X83J4MSIPZwoc8aE_transcoded-yY25Iu28Wlx34xH4-Anxiety__2520Module_252011__2520Slide_25206.mp3" />
+<file href="scormcontent/assets/0p8yGXJLAg-t6VZK_transcoded-b_GJTp_9A2bbAJjA-Managing_2520Workplace_2520Anxiety-_2520Module_252011-1080p-220719-00001.png" />
+<file href="scormcontent/assets/D9xzPZ5R9MmzvdEM_transcoded-b_GJTp_9A2bbAJjA-Managing_2520Workplace_2520Anxiety-_2520Module_252011-1080p-220719.mp4" />
+<file href="scormcontent/assets/mvcHl1qgvxnPUcM7_transcoded-a_bUOQkEk3-BhuL--Anxiety.mp3" />
+<file href="scormcontent/assets/RNMVt88qZ3e4imOi_quote_background.jpg" />
+<file href="scormcontent/assets/SuxYCf/Untitled%20design%20%281%29.png" />
+<file href="scormcontent/assets/Xlo-c0BzGVdmUy1B_48_abstract.jpg" />
+<file href="scormcontent/assets/tnzvfGutBQ_B-sIA_example-header-image.jpg" />
+
+      <file href="scormcontent/locales/default.js" />
+
+    </resource>
+  </resources>
+</manifest>
